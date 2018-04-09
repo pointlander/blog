@@ -1,0 +1,8 @@
+baseURL = "https://pointlander.github.io"
+languageCode = "en-us"
+title = "Pointlander"
+theme = "ananke"
+
+[params]
+  github = "https://github.com/pointlander"
+  featured_image = "/images/night.jpg"
