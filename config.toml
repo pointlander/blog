@@ -5,4 +5,5 @@ theme = "ananke"
 
 [params]
   github = "https://github.com/pointlander"
+  linkedin = "https://www.linkedin.com/in/andrew-snodgrass-62916793"
   featured_image = "/images/night.jpg"
