@@ -1,0 +1,7 @@
+---
+title: "Noninvasive Neural Activation (or how to hack the human brain)"
+date: 2018-10-16T22:13:28-06:00
+draft: false
+---
+
+There are noninvasive approaches for reading neural activations from the brain, but a noninvasive method for writing into the brain currently doesn't exist. The value of write capability can be seen from [this](https://www.theatlantic.com/magazine/archive/2018/11/the-pentagon-wants-to-weaponize-the-brain-what-could-go-wrong/570841/) article. The article describes how neural activity was transferred from better trained rats to rats with less training. Then the rats with less training performed like the better trained rats. The rats had electrodes placed inside their brains, but I think it is possible to do such an experiment on humans without the electrodes. The first step is to gather training data with a MRI machine. The test subject's (*the learner*) head is scanned while they look at images. The training data is then used to create a neural network which converts neural activations into images. Neural activity is then captured from another subject (*the source*) performing some task. Using the neural network, the captured neural activity from the source is then converted into images. The images are then shown to the learner. The learner is then evaluated on the task performed by the source. If this works it would create a whole new market where people sell their neural activity.
