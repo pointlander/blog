@@ -4,6 +4,8 @@ date: 2020-05-02T17:30:32-06:00
 draft: false
 ---
 
+**Update:** Simulation available [here](https://github.com/pointlander/qgo).
+
 In [Quantum Computing with the Human Brain](/posts/quantum-computing-with-the-human-brain) I introduce the idea of quantum genetic optimization:
 
 > Genetic optimization uses simulated evolution to solve problems. For instance, it could be used to factor numbers. In this case the genome is two numbers: a & b, and the fitness function is |n - (a * b)|. In the case of a quantum implementation the genome would be the quantum computer configuration. The configuration would be evolved until the number is factored. This system searches for a quantum program that factors the number."
