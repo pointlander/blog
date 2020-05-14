@@ -1,4 +1,4 @@
-baseURL = "https://pointlander.github.io"
+baseURL = "https://blog.snodgrass.xyz"
 languageCode = "en-us"
 title = "Pointlander"
 theme = "ananke"
